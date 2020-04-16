@@ -18,8 +18,8 @@ includes:
 search: true
 ---
 
-# Introductionnnnnnnnnn
-nn
+# Introduction
+
 Welcome to the Maccabiah API! You can use our API to access all endpoints, which can get information on sports, standings, transportation, and more in our database.
 
 We have language bindings in C# and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
