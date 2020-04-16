@@ -18,7 +18,7 @@ includes:
 search: true
 ---
 
-# Introduction
+# Introductionn
 
 Welcome to the Maccabiah API! You can use our API to access all endpoints, which can get information on sports, standings, transportation, and more in our database.
 
